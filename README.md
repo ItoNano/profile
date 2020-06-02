@@ -15,9 +15,9 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
+### Netlify参考
 ```
-yarn lint
+<https://qiita.com/tiwu_dev/items/5d1e883b3190cd8de56f>
 ```
 
 ### Customize configuration
